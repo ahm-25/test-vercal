@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "first_name": "first name",
+    "otp_code": "Otp Code",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "company_name": "Company Name",
+    "commercial_register": "Commercial Register",
+    "city": "City",
+    "rating_details": "Rating details...",
+    "commercial_number": "Commercial Number",
+    "image": "Personal Image",
+    "new_current_password": "Current Password ..",
+    "bank_name": "bank Name",
+    "iban": "iban",
+    "years_of_experience": "years_of_experience"
+  },
+  "validations": {
+    "required": "this field is required"
+  }
+}

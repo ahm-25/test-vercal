@@ -1,0 +1,36 @@
+{
+  "validation": {
+    "required": "{field} مطلوب",
+    "required_f": "{field} مطلوبة",
+    "max": "{field} يجب ان لا يتجاوز {max} حروف ",
+    "min": "{field} يجب ان لا يقل عن  {min} حروف",
+    "email": "ادخل البريد اﻹلكتروني بطريقة صحيحة",
+    "confirmed": "{field} غير متطابقة",
+    "mimes": "هذا الحقل يجب ان يكون من نوع {mimes}"
+  },
+  "fields": {
+    "phone": "رقم الجوال",
+    "email": "البريد اﻹلكتروني",
+    "password": "كلمة المرور",
+    "otp_code": "كود التأكيد",
+    "confirm_password": "تأكيد كلمة المرور",
+    "new_password": "كلمة المرور الجديدة",
+    "company_name": "اسم الشركة",
+    "commercial_register": "السجل التجاري",
+    "city": "المدينة",
+    "rating_details": "تفاصيل التقييم...",
+    "commercial_number": "رقم السجل التجاري",
+    "image": "الصورة الشخصية",
+    "message_subject": "موضوع الرساله",
+    "message_details": "تفاصيل الرسالة",
+    "new_current_password": "كلمة المرور الحالية...",
+    "name": "الاسم",
+    "contact_reason": "سبب التواصل",
+    "old_password": "كلمة المرور الحالية",
+    "commercial_image": "السجل التجاري",
+    "reservation_image": "صورة التحويل البنكي",
+    "bank_name": "اسم البنك",
+    "iban": "ايبان",
+    "years_of_experience": "عدد سنوات الخبره"
+  }
+}
